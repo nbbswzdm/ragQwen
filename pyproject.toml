@@ -1,0 +1,14 @@
+[project]
+name = "rag-qwen"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "langchain>=0.3.23",
+    "langchain-community>=0.3.21",
+    "langchain-core>=0.3.51",
+    "langsmith>=0.3.31",
+    "sentence-transformers>=4.0.2",
+]

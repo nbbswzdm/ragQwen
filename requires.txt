@@ -1,0 +1,5 @@
+langchain_core
+langchain_community
+sentence_transformers
+langsmith 
+langchain
